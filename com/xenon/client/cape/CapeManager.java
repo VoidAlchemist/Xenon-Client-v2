@@ -24,7 +24,7 @@ public class CapeManager {
 	@Hook("net.minecraft.client.entity.AbstractClientPlayer#AbstractClientPlayer() -> line 48")
 	public static final UUID capeowner = UUID.fromString("a6e65b11-337b-4343-8985-d3a49b9337d3");
 	@Hook("net.minecraft.client.entity.AbstractClientPlayer#AbstractClientPlayer() -> line 48")
-	public static final UUID capeowner1 = UUID.fromString("cf9daa33-45d0-4d19-8a7a-5ae9e10a1d39");
+	public static final UUID capeowner1 = UUID.fromString("4332a2a9-f8a1-4397-a847-8812e6e7aaa2");
 	private static final ResourceLocation locationCape = new ResourceLocation("xenon/cape.png");
 	
 	/**
